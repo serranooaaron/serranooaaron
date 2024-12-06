@@ -7,12 +7,12 @@ Soy Técnico en Computación y Téc. Superior en Análisis de Sistemas, actualme
 ## 🔎 Acerca de mí
 
 ### 🎓 Mi trayectoria académica:
-    Analista en Sistemas (2024)
-    Técnico Superior (2021)
-    Actualmente cursando Licenciatura en Ciencias de Datos en UNICABA
+    Técnico Superior Analista en Sistemas (2024)
+    Técnico en Computación (2021)
+    Licenciatura en Ciencias de Datos en UNICABA (2025 - Act)
 
-💡 Mi formación técnica y analítica me ha permitido desarrollar una sólida base en el campo de la informática, convirtiendo mi pasión en mi profesión.
-🤝 Me destaco por mi firme convicción en el poder del trabajo colaborativo.
+- 💡 Mi formación técnica y analítica me ha permitido desarrollar una sólida base en el campo de la informática, convirtiendo mi pasión en mi profesión.
+- 🤝 Me destaco por mi firme convicción en el poder del trabajo colaborativo.
 
 ## 💻 Mis Lenguajes de Programación
 
