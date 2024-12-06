@@ -1,4 +1,4 @@
-## ¡Bienvenidos! Soy Aaron Sebastian Serrano 👋
+# ¡Bienvenidos! Soy Aaron Sebastian Serrano 👋
 
 ## 🔎 Sobre mí
 
