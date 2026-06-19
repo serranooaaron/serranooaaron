@@ -2,48 +2,66 @@
 
 ## 🔎 Sobre mí
 
-Soy Técnico en Computación y Téc. Superior en Análisis de Sistemas, actualmente cursando la carrera de Ciencia de Datos en la Universidad de la Ciudad de Buenos Aires (UNICABA). Apasionado por el análisis, la informática y la investigación en el campo de la tecnología. Actualmente me encuentro como docente, enseñando Programación, Algoritmos y Estructura de Datos, y Laboratorio Orientado a Objetos.
+Técnico Superior en Análisis de Sistemas con formación avanzada en Ciencia de Datos — combinando ingeniería de software rigurosa con pensamiento analítico y expertise en Machine Learning.
 
-## 🔎 Acerca de mí
+Trabajo con **Java 21 (Spring Boot)**, **JavaScript**, **React**, **Python** y manejo de bases de datos SQL y NoSQL. Actualmente finalizando la **Licenciatura en Ciencias de Datos en UNICABA**, especializándome en Machine Learning y Estadística Matemática — lo que me da una perspectiva que va más allá del desarrollo: entiendo los datos, sé modelarlos y puedo tomar decisiones técnicas con criterio analítico.
 
-### 🎓 Mi trayectoria académica:
-    Técnico Superior Analista en Sistemas (2024)
-    Técnico en Computación (2021)
-    Licenciatura en Ciencias de Datos en UNICABA (2025 - Act)
+Soy **docente de Programación Orientada a Objetos y Prácticas Profesionalizantes** en nivel técnico secundario, con foco en la inserción laboral de mis estudiantes. Enseñar me formó como profesional: desarrollé criterio para explicar, liderar y acompañar procesos complejos.
 
-- 💡 Mi formación técnica y analítica me ha permitido desarrollar una sólida base en el campo de la informática, convirtiendo mi pasión en mi profesión.
-- 🤝 Me destaco por mi firme convicción en el poder del trabajo colaborativo.
+🎯 **Abierto a oportunidades en Data Engineering, Desarrollo Backend y Data Science / ML Engineering.**
 
-## 💻 Mis Lenguajes de Programación
+---
 
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" alt="JAVA" width="50"/> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" alt="Javascript" width="50"/><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-original.svg" alt="C#" width="50"/><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50"/><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg" alt="PHP" width="50"/><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original-wordmark.svg" alt="PYTHON" width="50"/>      
+## 🎓 Formación académica
 
-### ⚡Frameworks:
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original-wordmark.svg" alt="Spring - Springboot 3.4.0" width="50"/> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain-wordmark.svg" alt="Django - python" width="50"/> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/laravel/laravel-plain.svg" alt="Laravel - php" width="50"/>  
+- **Licenciatura en Ciencias de Datos** — UNICABA *(2025 - actualidad)*
+- **Técnico Superior Analista en Sistemas** *(2024)*
+- **Técnico en Computación** *(2021)*
 
-## 💾 Experiencia en consultas y construcción de bases de datos
+---
 
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50"/> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" width="50"/> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50"/> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50"/>  
+## 🛠️ Stack tecnológico
+
+### Lenguajes
+
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" alt="Java" width="45"/> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" alt="JavaScript" width="45"/> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original-wordmark.svg" alt="Python" width="45"/> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-original.svg" alt="C#" width="45"/> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45"/> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg" alt="PHP" width="45"/>
+
+### Frameworks & Librerías
+
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="45"/> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original-wordmark.svg" alt="React" width="45"/> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="45"/> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain-wordmark.svg" alt="Django" width="45"/> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/laravel/laravel-plain.svg" alt="Laravel" width="45"/>
+
+### Data Science & ML
+
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="45"/> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/numpy/numpy-original-wordmark.svg" alt="NumPy" width="45"/> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="45"/>
+
+### Bases de datos
+
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="45"/> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45"/> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" width="45"/> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="45"/>
+
+### DevOps & Herramientas
+
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45"/> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original-wordmark.svg" alt="Git" width="45"/>
+
+---
 
 ## 🚀 Mis Proyectos
 
-Visita mi repositorio de proyectos
+Visitá mi repositorio para ver los proyectos en los que estoy trabajando.
+
+---
 
 ## 📫 Contacto
 
-Si tienes alguna pregunta o simplemente deseas conectarte, no dudes en contactarme:
-
-- **Email**: [aaronsebastianserrano@gmail.com](mailto:aaronsebastianserrano@gmail.com)
-- **LinkedIn**: [Aaron Serrano](https://www.linkedin.com/in/serranooaaron/)
-
-<a href="https://www.linkedin.com/in/serranooaaron/" style="display: inline-block; margin-right: 10px;">
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" alt="LinkedIn Icon" width="25"/>
+<a href="mailto:aaronsebastianserrano@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-<a href="https://gitlab.com/serranooaaron/" style="display: inline-block;">
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gitlab/gitlab-original.svg" alt="GitLab Icon" width="25"/>
+<a href="https://www.linkedin.com/in/serranooaaron/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://gitlab.com/serranooaaron/">
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
 </a>
 
+---
 
-
-¡Gracias por visitar mi portfolio! Estoy siempre abierto a nuevas colaboraciones y oportunidades. ¡No dudes en ponerte en contacto conmigo!
-
+¡Gracias por visitar mi perfil! Estoy siempre abierto a nuevas colaboraciones y oportunidades. 🤝
