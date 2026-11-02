@@ -10,6 +10,8 @@ Soy **docente de Programación Orientada a Objetos y Prácticas Profesionalizant
 
 🎯 **Abierto a oportunidades en Data Engineering, Desarrollo Backend y Data Science / ML Engineering.**
 
+🌐 **Portafolio:** [portafolio-rho-one-62.vercel.app](https://portafolio-rho-one-62.vercel.app)
+
 ---
 
 ## 🎓 Formación académica
@@ -28,7 +30,7 @@ Soy **docente de Programación Orientada a Objetos y Prácticas Profesionalizant
 
 ### Frameworks & Librerías
 
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="45"/> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original-wordmark.svg" alt="React" width="45"/> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="45"/> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain-wordmark.svg" alt="Django" width="45"/> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/laravel/laravel-plain.svg" alt="Laravel" width="45"/>
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="45"/> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="45"/> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/express/express-original-wordmark.svg" alt="Express" width="45"/> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original-wordmark.svg" alt="React" width="45"/> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="45"/> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain-wordmark.svg" alt="Django" width="45"/> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/laravel/laravel-plain.svg" alt="Laravel" width="45"/>
 
 ### Data Science & ML
 
@@ -46,7 +48,20 @@ Soy **docente de Programación Orientada a Objetos y Prácticas Profesionalizant
 
 ## 🚀 Mis Proyectos
 
-Visitá mi repositorio para ver los proyectos en los que estoy trabajando.
+| Proyecto | Qué hace | Stack |
+|---|---|---|
+| [Biblioteca Digital API](https://github.com/serranooaaron/backend3-comision86245) | API REST de usuarios, catálogo, préstamos y sesiones, documentada con Swagger y testeada de punta a punta | Node.js · Express · MongoDB · JWT · Mocha/Chai |
+| [Backend e-commerce](https://github.com/serranooaaron/backend-comision86215) | Servidor de productos con vistas Handlebars, paginación y datos de prueba | Express · MongoDB · Handlebars |
+| [Backend II – Proyecto final](https://github.com/serranooaaron/serranooaaron-86235-backendII-Final) | Proyecto final de Backend II | JavaScript |
+| [Gest3D](https://github.com/serranooaaron/Gest3D) | WebApp de gestión de impresoras 3D | HTML |
+| [Generación de Prompts](https://github.com/serranooaaron/Proyecto-generacion-Prompts) | Proyecto de generación de prompts (CoderHouse) | Python · Jupyter |
+
+---
+
+## 🧑‍🏫 Docencia y mentoría
+
+- **Docente de Programación Orientada a Objetos y Prácticas Profesionalizantes** en nivel técnico secundario.
+- **SGN – Sistema de Gestión de Notas (ET35):** profesor mentor del sistema de calificaciones, legajos e inscripciones que desarrollan alumnas de la Escuela Técnica N° 35 "Ing. Eduardo Latzina" *(Spring Boot + Next.js)*. Guío el diseño y reviso el código; ellas lo siguen mejorando según mis correcciones.
 
 ---
 
@@ -60,6 +75,9 @@ Visitá mi repositorio para ver los proyectos en los que estoy trabajando.
 </a>
 <a href="https://gitlab.com/serranooaaron/">
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+</a>
+<a href="https://portafolio-rho-one-62.vercel.app">
+  <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio"/>
 </a>
 
 ---
