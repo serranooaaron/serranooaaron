@@ -50,9 +50,9 @@ Soy **docente de Programación Orientada a Objetos y Prácticas Profesionalizant
 
 | Proyecto | Qué hace | Stack |
 |---|---|---|
-| [Biblioteca Digital API](https://github.com/serranooaaron/backend3-comision86245) | API REST de usuarios, catálogo, préstamos y sesiones, documentada con Swagger y testeada de punta a punta | Node.js · Express · MongoDB · JWT · Mocha/Chai |
-| [Backend e-commerce](https://github.com/serranooaaron/backend-comision86215) | Servidor de productos con vistas Handlebars, paginación y datos de prueba | Express · MongoDB · Handlebars |
-| [Backend II – Proyecto final](https://github.com/serranooaaron/serranooaaron-86235-backendII-Final) | Proyecto final de Backend II | JavaScript |
+| [Biblioteca Digital](https://github.com/serranooaaron/biblioteca-digital) | Catálogo, préstamos y devoluciones con panel de administración; roles con JWT, Swagger y 31 tests | Node.js · Express · Handlebars · MongoDB · Mocha/Chai |
+| [Tienda Gamer](https://github.com/serranooaaron/tienda-gamer) | E-commerce de periféricos con catálogo filtrable, carrito por usuario y panel de productos | Node.js · Express · Handlebars · MongoDB · JWT |
+| [Portafolio](https://github.com/serranooaaron/portafolio-nextjs) | Mi portafolio con repos de GitHub en vivo, tema claro/oscuro y deploy automático | Next.js · React · TypeScript · Vercel |
 | [Gest3D](https://github.com/serranooaaron/Gest3D) | WebApp de gestión de impresoras 3D | HTML |
 | [Generación de Prompts](https://github.com/serranooaaron/Proyecto-generacion-Prompts) | Proyecto de generación de prompts (CoderHouse) | Python · Jupyter |
 
