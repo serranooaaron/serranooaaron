@@ -10,7 +10,7 @@ Soy **docente de Programación Orientada a Objetos y Prácticas Profesionalizant
 
 🎯 **Abierto a oportunidades en Data Engineering, Desarrollo Backend y Data Science / ML Engineering.**
 
-🌐 **Portafolio:** [portafolio-rho-one-62.vercel.app](https://portafolio-rho-one-62.vercel.app)
+🌐 **Portafolio:** [serranopf.vercel.app](https://serranopf.vercel.app)
 
 ---
 
@@ -76,7 +76,7 @@ Soy **docente de Programación Orientada a Objetos y Prácticas Profesionalizant
 <a href="https://gitlab.com/serranooaaron/">
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
 </a>
-<a href="https://portafolio-rho-one-62.vercel.app">
+<a href="https://serranopf.vercel.app">
   <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio"/>
 </a>
 
